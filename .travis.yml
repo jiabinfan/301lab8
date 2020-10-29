@@ -48,7 +48,7 @@ before_script:
   - echo no | android create avd --force -n test -t android-$ANDROID_EMU_API_LEVEL --abi google_api/$ANDROID_ABI
   - emulator -avd test -no-window & # android-wait-for-emulator
   - android-wait-for-emulator
-  -abd shell input keyevent 82 &
+  - abd shell input keyevent 82 &
   
 
 #script:
