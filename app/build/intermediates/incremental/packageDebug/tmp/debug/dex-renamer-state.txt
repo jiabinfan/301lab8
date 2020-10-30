@@ -1,0 +1,4 @@
+#Thu Oct 29 18:55:38 MDT 2020
+base.0=/Users/jiabinfan/Documents/301/lab8/301lab8/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
