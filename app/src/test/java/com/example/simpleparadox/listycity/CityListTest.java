@@ -39,6 +39,6 @@ class CityListTest {
 
         cityList.isEmpty();
 
-        assertTrue(cityList.isEmpty());
+        assertFalse(cityList.isEmpty());
     }
 }
